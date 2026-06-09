@@ -88,6 +88,3 @@ Done. 3 server(s) with models found out of 100 checked.
 
 This tool is intended for **research, network auditing, and educational purposes only**. Only scan IP ranges you own or have explicit permission to scan. Unauthorised scanning of third-party systems may be illegal in your jurisdiction.
 
-## License
-
-MIT
