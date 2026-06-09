@@ -19,8 +19,8 @@ Given a list of `ip:port` targets, the tool:
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/ollama-free-model-finder.git
-cd ollama-free-model-finder
+git clone https://github.com/EynaExp/LamaBang
+cd LamaBang
 pip install -r requirements.txt
 ```
 
